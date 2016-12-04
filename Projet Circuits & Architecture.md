@@ -25,5 +25,5 @@ Projet Circuits & Architecture
 ![br](file://media/1598037696.png)
 ### JMP
 ![jmp](file://media/1388566609.png)
-### SETB
-### RSTB
+### SETB / RSTB
+![setb](file://media/1624610234.png)
